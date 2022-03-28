@@ -1,11 +1,18 @@
 {
-  "name": "𝐓𝐮𝐟𝐚𝐚𝐧 𝐒𝐩𝐚𝐦 𝐔𝐬𝐞𝐫𝐛𝐨𝐭𝐬",
+  "name": "𝐊𝐡𝐚𝐮𝐟 𝐌𝐚𝐤𝐞𝐫 𝐒𝐩𝐚𝐦 𝐔𝐬𝐞𝐫𝐛𝐨𝐭𝐬",
   "description": "ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɴᴅ ғᴀsᴛ sᴘᴀᴍ ʙᴏᴛ...",
-  "logo": "https://te.legra.ph/file/72b8500b85d0c4798c6d5.jpg",
+  "logo": "https://te.legra.ph/file/d1993aaca2f7e169b50ba.jpg",
   "keywords": [
     "telegram",
     "userbot"
   ],
+       },
+       "ALIVE PIC":{
+          "description": "alive command reply",
+          "value": "",
+          "required" : false
+   
+
     "env": {
       "STRING": {
         "description": "Telethon String Session",
