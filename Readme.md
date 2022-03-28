@@ -1,7 +1,7 @@
-# 💥 ᴛᴜғᴀᴀɴ 💞 sᴘᴀᴍᴇʀs 💐
+# 💥 𝐊𝐇𝐀𝐔𝐅 𝐌𝐀𝐊𝐄𝐑 ☠️
 
 <p align="center">
-  <img src="https://te.legra.ph/file/72b8500b85d0c4798c6d5.jpg">
+  <img src="https://te.legra.ph/file/d1993aaca2f7e169b50ba.jpg">
 </p>
 
 
@@ -18,4 +18,4 @@
 # ⭐ ᴏᴡɴᴇʀ ⚡
 
 
-### ~ RUDRA
+### ~ 𝐌𝐑.𝐁𝐀𝐀𝐃𝐒𝐇𝐀𝐇
